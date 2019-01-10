@@ -1,0 +1,16 @@
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.csproj.CoreCompileInputs.cache
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.AssemblyInfoInputs.cache
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.AssemblyInfo.cs
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.Console.deps.json
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.Console.runtimeconfig.json
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.Console.runtimeconfig.dev.json
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.Console.dll
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.Console.pdb
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.dll
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.pdb
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.csprojAssemblyReference.cache
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.BL.dll
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.DA.dll
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.BL.pdb
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\bin\Debug\netcoreapp2.1\Employee.DA.pdb
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.Console\obj\Debug\netcoreapp2.1\Employee.Console.csproj.CopyComplete

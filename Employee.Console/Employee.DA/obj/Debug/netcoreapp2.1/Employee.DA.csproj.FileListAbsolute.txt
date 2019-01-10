@@ -1,0 +1,9 @@
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\bin\Debug\netcoreapp2.1\Employee.DA.deps.json
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\bin\Debug\netcoreapp2.1\Employee.DA.dll
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\bin\Debug\netcoreapp2.1\Employee.DA.pdb
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\obj\Debug\netcoreapp2.1\Employee.DA.csproj.CoreCompileInputs.cache
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\obj\Debug\netcoreapp2.1\Employee.DA.AssemblyInfoInputs.cache
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\obj\Debug\netcoreapp2.1\Employee.DA.AssemblyInfo.cs
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\obj\Debug\netcoreapp2.1\Employee.DA.dll
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\obj\Debug\netcoreapp2.1\Employee.DA.pdb
+C:\Users\JIO_2\Documents\Visual Studio 2017\Projects\Learn\Employee.Console\Employee.DA\obj\Debug\netcoreapp2.1\Employee.DA.csprojAssemblyReference.cache
